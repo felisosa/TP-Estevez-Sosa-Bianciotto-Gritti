@@ -7,8 +7,7 @@
 * 53528. Matias Estevez
 
 ### Repositorios
-* [frontend app](https://github.com/felisosa/TP-Frontend-Estevez-Gritti-Sosa.git)
-* [backend app](https://github.com/felisosa/TP-Back-Estevez-Sosa-Gritti.git)
+* [fullstack app](https://github.com/felisosa/TP-Back-Estevez-Sosa-Gritti.git)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
