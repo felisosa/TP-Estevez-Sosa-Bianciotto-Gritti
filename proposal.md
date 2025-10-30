@@ -28,8 +28,8 @@ Consiste en un sitio web para equipos deportivos donde pueden llevar registro de
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD jugador<br>2. CRUD partido<br>3. CRUD equipo|
-|CRUD dependiente|1. CRUD estadísticas generales de jugador {depende de} CRUD jugador<br>2. CRUD Estadisticas de equipo {depende de} CRUD partido y CRUD equipo|
+|CRUD simple|1. CRUD jugador<br>2. CRUD Tipo Lesion<br>3. CRUD equipo|
+|CRUD dependiente|1. CRUD estadísticas generales de jugador {depende de} CRUD jugador<br>2. CRUD Lesiones {depende de} CRUD Tipo Lesiones y CRUD equipo|
 |Listado<br>+<br>detalle| 1. listado de jugadores filtrado por posición y número mostrando nombre => detalle CRUD jugador<br> 2. listado de partido filtrado por rango de fecha mostrando resultado y rival => detalle muestra datos de los partidos jugados|
 |CUU/Epic|1. registrar jugador en el equipo<br>2. registrar datos del jugador|
 
