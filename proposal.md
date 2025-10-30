@@ -29,7 +29,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD jugador<br>2. CRUD Tipo Lesion<br>3. CRUD equipo|
 |CRUD dependiente|1. CRUD estadísticas generales de jugador {depende de} CRUD jugador<br>2. CRUD Lesiones {depende de} CRUD Tipo Lesiones|
-|Listado<br>+<br>detalle| 1. listado de jugadores filtrado por posición  mostrando todos sus datos => detalle CRUD jugador<br> 2. listado de equipos filtrado por categoria mostrando todos sus datos|
+|Listado<br>+<br>detalle| 1. listado de jugadores filtrado por posición  mostrando todos sus datos => detalle CRUD jugador<br> 2. listado de equipos filtrado por categoria mostrando todos sus datos=> detalle CRUD Equipo|
 |CUU/Epic|1. registrar jugador en el equipo<br>2. registrar datos del jugador|
 
 
@@ -37,7 +37,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Partidos<br>2. Crud Dts<br>3. CRUD Contratos<br>|
-|CUU/Epic|1. registrar entrenadores y su rol<br>2. registrar goles y asistencias<br>3. registrar lesiones|
+|CUU/Epic|1. registrar entrenadores y su rol<br>2. registrar Partidos(tipo,lugar,rival,etc)<br>3. registrar contratos(duracion,fecha de fin,etc)|
 
 
 
