@@ -36,7 +36,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD lesiones<br>2. CRUD tarjetas<br>3. CRUD goles<br>4. CRUD asistencias<br>5. CRUD entrenadores<br>6. CRUD vallas invictas<br>7. CRUD minutos jugados|
+|CRUD |1. CRUD Partidos<br>2. Crud Dts<br>3. CRUD Contratos<br>|
 |CUU/Epic|1. registrar entrenadores y su rol<br>2. registrar goles y asistencias<br>3. registrar lesiones|
 
 
